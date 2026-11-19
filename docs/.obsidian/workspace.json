@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "d70732db8dc3dd51",
+    "type": "split",
+    "children": [
+      {
+        "id": "59ba524c08c81085",
+        "type": "split",
+        "children": [
+          {
+            "id": "1eb0f2441b59f671",
+            "type": "split",
+            "dimension": 52.44252873563219,
+            "children": [
+              {
+                "id": "5aecfa75fbe6e584",
+                "type": "tabs",
+                "dimension": 51.451800232288036,
+                "children": [
+                  {
+                    "id": "3d56bfe75f66cb10",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "CREATE TABLE/CREATE TABLE - Синтаксис/Главное - `CREATE TABLE`.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Главное - `CREATE TABLE`"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "707c45f23e84cdcb",
+                "type": "tabs",
+                "dimension": 48.548199767711964,
+                "children": [
+                  {
+                    "id": "76d88e2cf0df187e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "CREATE TABLE/_Дерево CREATE TABLE.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "_Дерево CREATE TABLE"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "843a3276d2751136",
+            "type": "tabs",
+            "dimension": 47.55747126436782,
+            "children": [
+              {
+                "id": "66aff37c495232f2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CREATE TABLE/CREATE TABLE - Синтаксис/_Дерево CREATE TABLE Синтаксис.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "_Дерево CREATE TABLE Синтаксис"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "208713dce3d44b36",
+    "type": "split",
+    "children": [
+      {
+        "id": "50d011ffa7dd543b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c55da88f98e928ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "519dea846e317ec4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "upsert",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "67d0d0902aa5b34e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335.1000061035156
+  },
+  "right": {
+    "id": "f5d2f00d5c0e117d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac6711ec05a0c5cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fec1a03ea0a5b60",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Where-filter/Дерево Where.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "579598bd043f1dae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Where-filter/Дерево Where.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "2e051138203dae0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "d76b83dac56b6e53",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "568c6d481b9a85ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Where-filter/Дерево Where.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "66aff37c495232f2",
+  "lastOpenFiles": [
+    "CREATE TABLE/CREATE TABLE - Синтаксис/FOREIGN KEY не создаёт индекс автоматически.md",
+    "CREATE TABLE/CREATE TABLE - Синтаксис/_Дерево CREATE TABLE Синтаксис.md",
+    "CREATE TABLE/CREATE TABLE - Синтаксис/PRIMARY KEY.md",
+    "CREATE TABLE/CREATE TABLE - Синтаксис/Базовый синтаксис CREATE TABLE.md",
+    "CREATE TABLE/CREATE TABLE - Синтаксис/UNIQUE.md",
+    "CREATE TABLE/CREATE TABLE - Синтаксис/TEXT или VARCHAR.md",
+    "CREATE TABLE/CREATE TABLE - Синтаксис/Главное - `CREATE TABLE`.md",
+    "CREATE TABLE/_Дерево CREATE TABLE.md",
+    "CREATE TABLE/CREATE TABLE - Синтаксис/Как читать CREATE TABLE глазами разработчика.md",
+    "CREATE TABLE/CREATE TABLE - Синтаксис/Частые ошибки новичков - CREATE TABLE.md",
+    "CREATE TABLE/CREATE TABLE - Синтаксис/NULL - разрешать или запрещать.md",
+    "CREATE TABLE/CREATE TABLE - Синтаксис/Что такое ON DELETE.md",
+    "CREATE TABLE/CREATE TABLE - Синтаксис/FOREIGN KEY - связь между таблицами.md",
+    "CREATE TABLE/CREATE TABLE - Синтаксис/CHECK.md",
+    "CREATE TABLE/CREATE TABLE - Синтаксис/DEFAULT.md",
+    "CREATE TABLE/CREATE TABLE - Синтаксис/NOT NULL.md",
+    "CREATE TABLE/CREATE TABLE - Синтаксис/Ограничения - правила, которые защищают данные.md",
+    "CREATE TABLE/CREATE TABLE - Синтаксис/Дата и время - TIMESTAMPTZ.md",
+    "CREATE TABLE/CREATE TABLE - Синтаксис/Деньги - только NUMERIC.md",
+    "CREATE TABLE/CREATE TABLE - Синтаксис/Основные типы данных - CREATE TABLE.md",
+    "CREATE TABLE/CREATE TABLE - Синтаксис/Колонка - это имя, тип и правила.md",
+    "CREATE TABLE/CREATE TABLE - Синтаксис/Зачем нужен CREATE TABLE.md",
+    "DELETE/DELETE-Синтаксис/_Дерево DELTETE Синтаксис.md",
+    "CREATE TABLE/CREATE TABLE - Синтаксис",
+    "DELETE/_Дерево DELTETE.md",
+    "Процессы-SQL/`upsert` Запрос.md",
+    "CREATE TABLE",
+    "DELETE/DELETE-Синтаксис/DELETE и права доступа.md",
+    "DELETE/DELETE-Синтаксис",
+    "DELETE",
+    "UPDATE/UPDATE - Синтаксис",
+    "UPDATE",
+    "INSERT/INSERT - Синтаксис",
+    "INSERT",
+    "COALESCE/COALESCE - синтаксис",
+    "COALESCE"
+  ]
+}

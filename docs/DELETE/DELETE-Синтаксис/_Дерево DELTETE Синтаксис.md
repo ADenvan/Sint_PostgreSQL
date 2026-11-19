@@ -1,0 +1,21 @@
+
+- [[Базовый синтаксис DELETE]]
+- [[WHERE - самая важная часть DELETE]]
+- [[Сначала SELECT, потом DELETE]]
+- [[DELETE в транзакции]]
+- [[DELETE с RETURNING в PostgreSQL]]
+- [[DELETE удаляет строки, но не таблицу]]
+- [[DELETE vs UPDATE]]
+- [[DELETE vs TRUNCATE]]
+- [[Soft delete и hard delete]]
+- [[ON DELETE CASCADE]]
+- [[ON DELETE RESTRICT]]
+- [[ON DELETE SET NULL]]
+- [[Как безопасно удалять родительские строки]]
+- [[DELETE и индексы]]
+- [[DELETE и права доступа]]
+
+---
+- [[Частые ошибки новичков - DELETE]]
+- [[Безопасный порядок действий перед DELETE]]
+- [[Как читать DELETE-запрос]]
